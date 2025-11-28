@@ -29,6 +29,7 @@ public class Employee {
         this.salary = salary;
     }
 
+    
     // Boş constructor
     public Employee() {
         System.out.println("This is empty constructor");
